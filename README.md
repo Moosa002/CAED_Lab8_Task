@@ -1,5 +1,6 @@
 # CAED_Lab8_Task
 This repository contains my CAED lab 8 tasks 
+
 Task#1: 
 Suppose that billing Amount is a variable, which denotes the amount you need to pay to
 the department store. If you pay the full amount, you get $10.00 or 1% of the billing
